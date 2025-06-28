@@ -3,7 +3,7 @@
 ### Me chamo Glauber Fernandes
 
 Sou envolvido e apaixonado pela a área de TI há mais de 06 anos, amo programação e atualmente trabalho com Java, Spring, Rest e PL/SQL como Analista de Software.
-Gosto muito de estudar desenvolvimento e também tenho bastante interesse por AWS.
+Pós-Graduado em Engenharia de Software com foco em Devops.
 
 
 ### Meus objetivos:
